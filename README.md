@@ -3,7 +3,11 @@
 ### DATE: Sathish kumar. M                                                                     
 ### REGISTER NUMBER : 212224230256
 ## Aim: 
-To write the prompts for these following prompt types and evaluate that using any one method 1. Straightforward Prompts, 2. Tabular Format Prompting 3.Preceding Question Prompting and 4. Missing Word Prompting
+To write the prompts for these following prompt types and evaluate that using any one method 
+   1. Straightforward Prompts,
+   2. Tabular Format Prompting
+   3. Preceding Question Prompting
+   4. Missing Word Prompting
 
 ## Explanation :
 Any one use case from Unit 5 and generate the report for that with the unit 2 Prompt type
